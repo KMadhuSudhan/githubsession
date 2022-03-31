@@ -1,2 +1,2 @@
 Githubsession
-Password=HS12345
+Password=HS123456
