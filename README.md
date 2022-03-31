@@ -1,2 +1,5 @@
 Githubsession
 Password=HS123456
+
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+-----END PGP PRIVATE KEY BLOCK-----
